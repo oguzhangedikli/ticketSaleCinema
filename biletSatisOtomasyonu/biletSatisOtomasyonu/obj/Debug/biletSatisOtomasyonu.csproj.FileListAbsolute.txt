@@ -1,0 +1,30 @@
+C:\Users\og_gx\source\repos\sinemasatiss\sinemasatiss\bin\Debug\sinemasatiss.exe.config
+C:\Users\og_gx\source\repos\sinemasatiss\sinemasatiss\bin\Debug\sinemasatiss.exe
+C:\Users\og_gx\source\repos\sinemasatiss\sinemasatiss\bin\Debug\sinemasatiss.pdb
+C:\Users\og_gx\source\repos\sinemasatiss\sinemasatiss\obj\Debug\sinemasatiss.csprojAssemblyReference.cache
+C:\Users\og_gx\source\repos\sinemasatiss\sinemasatiss\obj\Debug\sinemasatiss.Form1.resources
+C:\Users\og_gx\source\repos\sinemasatiss\sinemasatiss\obj\Debug\sinemasatiss.Properties.Resources.resources
+C:\Users\og_gx\source\repos\sinemasatiss\sinemasatiss\obj\Debug\sinemasatiss.csproj.GenerateResource.cache
+C:\Users\og_gx\source\repos\sinemasatiss\sinemasatiss\obj\Debug\sinemasatiss.csproj.CoreCompileInputs.cache
+C:\Users\og_gx\source\repos\sinemasatiss\sinemasatiss\obj\Debug\sinemasatiss.exe
+C:\Users\og_gx\source\repos\sinemasatiss\sinemasatiss\obj\Debug\sinemasatiss.pdb
+C:\Users\og_gx\Desktop\biletSatisOtomasyonu\biletSatisOtomasyonu\obj\Debug\biletSatisOtomasyonu.csprojAssemblyReference.cache
+C:\Users\og_gx\Desktop\biletSatisOtomasyonu\biletSatisOtomasyonu\obj\Debug\biletSatisOtomasyonu.Form1.resources
+C:\Users\og_gx\Desktop\biletSatisOtomasyonu\biletSatisOtomasyonu\obj\Debug\biletSatisOtomasyonu.csproj.GenerateResource.cache
+C:\Users\og_gx\Desktop\biletSatisOtomasyonu\biletSatisOtomasyonu\obj\Debug\biletSatisOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\og_gx\Desktop\biletSatisOtomasyonu\biletSatisOtomasyonu\bin\Debug\biletSatisOtomasyonu.exe.config
+C:\Users\og_gx\Desktop\biletSatisOtomasyonu\biletSatisOtomasyonu\bin\Debug\biletSatisOtomasyonu.exe
+C:\Users\og_gx\Desktop\biletSatisOtomasyonu\biletSatisOtomasyonu\bin\Debug\biletSatisOtomasyonu.pdb
+C:\Users\og_gx\Desktop\biletSatisOtomasyonu\biletSatisOtomasyonu\obj\Debug\biletSatisOtomasyonu.Properties.Resources.resources
+C:\Users\og_gx\Desktop\biletSatisOtomasyonu\biletSatisOtomasyonu\obj\Debug\biletSatisOtomasyonu.exe
+C:\Users\og_gx\Desktop\biletSatisOtomasyonu\biletSatisOtomasyonu\obj\Debug\biletSatisOtomasyonu.pdb
+O:\University Education\+\University\Documents\Vize-Projeler\NDP-Proje Tasarım-Oğuzhan Gedikli-B171306301\biletSatisOtomasyonu\biletSatisOtomasyonu\bin\Debug\biletSatisOtomasyonu.exe.config
+O:\University Education\+\University\Documents\Vize-Projeler\NDP-Proje Tasarım-Oğuzhan Gedikli-B171306301\biletSatisOtomasyonu\biletSatisOtomasyonu\bin\Debug\biletSatisOtomasyonu.exe
+O:\University Education\+\University\Documents\Vize-Projeler\NDP-Proje Tasarım-Oğuzhan Gedikli-B171306301\biletSatisOtomasyonu\biletSatisOtomasyonu\bin\Debug\biletSatisOtomasyonu.pdb
+O:\University Education\+\University\Documents\Vize-Projeler\NDP-Proje Tasarım-Oğuzhan Gedikli-B171306301\biletSatisOtomasyonu\biletSatisOtomasyonu\obj\Debug\biletSatisOtomasyonu.csprojAssemblyReference.cache
+O:\University Education\+\University\Documents\Vize-Projeler\NDP-Proje Tasarım-Oğuzhan Gedikli-B171306301\biletSatisOtomasyonu\biletSatisOtomasyonu\obj\Debug\biletSatisOtomasyonu.Form1.resources
+O:\University Education\+\University\Documents\Vize-Projeler\NDP-Proje Tasarım-Oğuzhan Gedikli-B171306301\biletSatisOtomasyonu\biletSatisOtomasyonu\obj\Debug\biletSatisOtomasyonu.Properties.Resources.resources
+O:\University Education\+\University\Documents\Vize-Projeler\NDP-Proje Tasarım-Oğuzhan Gedikli-B171306301\biletSatisOtomasyonu\biletSatisOtomasyonu\obj\Debug\biletSatisOtomasyonu.csproj.GenerateResource.cache
+O:\University Education\+\University\Documents\Vize-Projeler\NDP-Proje Tasarım-Oğuzhan Gedikli-B171306301\biletSatisOtomasyonu\biletSatisOtomasyonu\obj\Debug\biletSatisOtomasyonu.csproj.CoreCompileInputs.cache
+O:\University Education\+\University\Documents\Vize-Projeler\NDP-Proje Tasarım-Oğuzhan Gedikli-B171306301\biletSatisOtomasyonu\biletSatisOtomasyonu\obj\Debug\biletSatisOtomasyonu.exe
+O:\University Education\+\University\Documents\Vize-Projeler\NDP-Proje Tasarım-Oğuzhan Gedikli-B171306301\biletSatisOtomasyonu\biletSatisOtomasyonu\obj\Debug\biletSatisOtomasyonu.pdb
